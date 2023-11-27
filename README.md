@@ -1,2 +1,3 @@
-# Rocket-Boost-EXE
-Rocket Boost Repository
+# Rocket-Boost
+Rocket Boost.exe
+Have fun with my microgames
